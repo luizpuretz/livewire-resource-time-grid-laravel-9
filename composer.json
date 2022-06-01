@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Luizpuretz\\LivewireResourceTimeGrid\\": "src"
+            "Asantibanez\\LivewireResourceTimeGrid\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Luizpuretz\\LivewireResourceTimeGrid\\Tests\\": "tests"
+            "Asantibanez\\LivewireResourceTimeGrid\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Luizpuretz\\LivewireResourceTimeGrid\\LivewireResourceTimeGridServiceProvider"
+                "Asantibanez\\LivewireResourceTimeGrid\\LivewireResourceTimeGridServiceProvider"
             ]
         }
     }

@@ -1,11 +1,11 @@
 {
-    "name": "asantibanez/livewire-resource-time-grid",
+    "name": "luizpuretz/livewire-resource-time-grid-laravel-9",
     "description": "Laravel Livewire resource time grid component",
     "keywords": [
-        "asantibanez",
-        "livewire-resource-time-grid"
+        "luizpuretz",
+        "livewire-resource-time-grid-laravel-9"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-resource-time-grid",
+    "homepage": "https://github.com/luizpuretz/livewire-resource-time-grid-laravel-9",
     "license": "MIT",
     "type": "library",
     "authors": [
